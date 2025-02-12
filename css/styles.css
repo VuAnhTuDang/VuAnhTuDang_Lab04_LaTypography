@@ -92,7 +92,7 @@ article {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 67px;
+    gap: 65px;
     font-family: "Quicksand", serif;
 }
 
@@ -142,8 +142,6 @@ article {
     width: 1002px;
     
     margin-bottom: 46px;
-   
-    
 }
 
 .info span{
@@ -172,7 +170,6 @@ footer .wrapper{
 footer p{
     font-family: "Roboto", serif;
     font-weight: 700;
-   
 }
 
 .icone{
@@ -186,6 +183,4 @@ footer p{
     display: flex;
     justify-content: center;
     align-items: center;
-
-    
 }
